@@ -1,4 +1,4 @@
-Checked by Elite Proxy Switcher
+Checked by a Proxyjudge.
 2020-04-14 12:25:22
 Proxyjudge: http://azenv.net/
 Timeout: 5S, Threads: 20
